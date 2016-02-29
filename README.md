@@ -1,3 +1,3 @@
 # useful-sql-scripts
 
-[https://github.com/lhtrieu87/useful-sql-scripts/wiki](Check Repository Wiki)
+[Check Repository Wiki](https://github.com/lhtrieu87/useful-sql-scripts/wiki)
